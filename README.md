@@ -1,4 +1,3 @@
-# Yash Rastogi | Ph.D. Student at Georgia Tech  
 **Research Interests**: Optimization, Probability/Statistics
 
 ---
