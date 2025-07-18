@@ -14,8 +14,6 @@ I am a first-year Ph.D. student at Georgia Tech, specializing in optimization. P
 
 ## Preprints  
 #### Articles Written as an Undergraduate Student  
-- J. Frost, C. Madiera, **Y. Rastogi**, H. Uhlig. *Quantum Bayesian Estimation: An Exploration*  
-
 - **Y. Rastogi.** *Intertwining Classical and Quantum Dynamics on Hyperbolic Surfaces: A Microlocal Perspective*  
 
 - A. Cohen, **Y. Rastogi**, S. Sottile, Y. Zeytuncu. *Distribution of Eigenvalues of the Kohn Laplacian on Sphere Quotients*  
