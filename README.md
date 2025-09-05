@@ -1,9 +1,6 @@
-**Research Interests**: Probability & Statistics
-
----
-
 ## Biography
-I am a first-year Ph.D. student at the Georgia Institute of Technology, specializing in probability and statistics. Prior to my graduate studies, I pursued research across dynamical systems, CR geometry, functional analysis, and econometrics. I hold undergraduate degrees in Mathematics (with honors) and Statistics from the University of Chicago.
+
+Yash Rastogi is a first-year doctoral student at the Georgia Institute of Technology, specializing in high-dimensional probability and statistics. His broader research background spans pure and applied mathematics, including work in dynamical systems, CR geometry, and functional analysis, conducted through NSF REU programs at the University of Chicago, the University of Michigan–Dearborn, and the Georgia Institute of Technology. He has also pursued research in econometrics in collaboration with the Bank for International Settlements. He holds bachelor’s degrees in Mathematics (with Honors) and Statistics from the University of Chicago.
 
 ---
 
