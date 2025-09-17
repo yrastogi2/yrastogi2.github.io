@@ -4,13 +4,7 @@ Yash Rastogi is a first-year doctoral student at the Georgia Institute of Techno
 
 ---
 
-## Publications
-- Coming soon!
-  
----
-
-## Preprints
-#### Articles Written as an Undergraduate Student
+## Research
 - [**Y. Rastogi.** *Intertwining Classical and Quantum Dynamics on Hyperbolic Surfaces: A Microlocal Perspective*](https://math.uchicago.edu/~may/REU2024/REUPapers/Rastogi.pdf)
 
 - [A. Cohen, **Y. Rastogi**, S. Sottile, Y. Zeytuncu. *Distribution of Eigenvalues of the Kohn Laplacian on Sphere Quotients*](https://arxiv.org/pdf/2509.11463)
