@@ -11,8 +11,6 @@ Yash Rastogi is a first-year doctoral student at the Georgia Institute of Techno
 
 - [A. Cohen, **Y. Rastogi**, S. Sottile, Y. Zeytuncu. *Distribution of Eigenvalues of the Kohn Laplacian on Sphere Quotients*](https://arxiv.org/pdf/2509.11463)
 
-- A. Cohen, **Y. Rastogi**, S. Sottile, Y. Zeytuncu. *Analysis of the Kohn Laplacian and Sub-Laplacian on Compact Quotients of Quadric Groups*
-
 - [**Y. Rastogi.** *Extremal Growth of Multiple Toeplitz Operators and Applications to Numerical Stability of Approximation Schemes*](https://arxiv.org/pdf/2309.01759)
 
 ---
@@ -26,7 +24,8 @@ Yash Rastogi is a first-year doctoral student at the Georgia Institute of Techno
 ---
 
 ## Teaching
-- **Fall 2025**: Linear Algebra (Math 1554)
+- **Spring 2026**: [Numerical Methods in Finance (Math 6635)](https://math.gatech.edu/courses/math/6635), [Probability and Statistics with Applications (Math 3670)](https://math.gatech.edu/courses/math/3670)
+- **Fall 2025**: [Linear Algebra (Math 1554)](https://math.gatech.edu/courses/math/1554)
 
 ---
 
