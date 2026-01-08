@@ -1,6 +1,8 @@
 ## Biography
 
-Yash Rastogi is a first-year doctoral student at the Georgia Institute of Technology. His mathematics research background includes work in dynamical systems, differential geometry, and functional analysis, conducted through NSF REU programs at the University of Chicago, the University of Michigan–Dearborn, and the Georgia Institute of Technology. He has also pursued Bayesian econometrics research in collaboration with the Bank for International Settlements. He holds bachelor’s degrees in Mathematics (with Honors) and Statistics from the University of Chicago.
+Yash Rastogi is a doctoral student at the Georgia Institute of Technology with research interests in probability and statistics. 
+
+He draws on a foundation in dynamical systems, differential geometry, and functional analysis, developed through NSF REU programs at the University of Chicago, University of Michigan-Dearborn, and Georgia Institute of Technology, as well as collaborative work in Bayesian econometrics with the Bank for International Settlements. He holds bachelor’s degrees in Mathematics (with Honors) and Statistics from the University of Chicago.
 
 ---
 
