@@ -1,8 +1,6 @@
 ## Biography
 
-Yash Rastogi is a doctoral student at the Georgia Institute of Technology with research interests in probability and statistics. 
-
-He holds a B.S. in Mathematics (with Honors) and a B.A. in Statistics from the University of Chicago. His mathematical foundation—spanning microlocal analysis, dynamical systems, and differential geometry—was developed through specialized study with Carlos Kenig, Simion Filip, and Guillaume Bal. Beyond pure mathematics, he has collaborated with Harald Uhlig and researchers at the Bank for International Settlements on quantum-accelerated Bayesian econometrics.
+**Yash Rastogi** is a Ph.D. student at the **Georgia Institute of Technology** specializing in **high-dimensional probability** and **statistical inference**, with a doctoral minor in **Machine Learning**. A graduate of the **University of Chicago** (B.S. in Mathematics with Honors, B.A. in Statistics), his mathematical foundation—spanning microlocal analysis, dynamical systems, and differential geometry—was developed through specialized study with **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**. Beyond pure mathematics, he has collaborated with **Harald Uhlig** and researchers at the **Bank for International Settlements** on quantum-accelerated Bayesian econometrics.
 
 ---
 
@@ -34,12 +32,6 @@ He holds a B.S. in Mathematics (with Honors) and a B.A. in Statistics from the U
 
 ---
 
-## Teaching
-- **Spring 2026:** [Numerical Methods in Finance (Math 6635)](https://math.gatech.edu/courses/math/6635), [Probability and Statistics with Applications (Math 3670)](https://math.gatech.edu/courses/math/3670)
-- **Fall 2025:** [Linear Algebra (Math 1554)](https://math.gatech.edu/courses/math/1554)
-
----
-
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=TnaxffgAAAAJ)
+## Teaching & Contact
+- **Teaching Assistant:** [Numerical Methods in Finance (Math 6635)](https://math.gatech.edu/courses/math/6635), [Probability and Statistics with Applications (Math 3670)](https://math.gatech.edu/courses/math/3670), [Linear Algebra (Math 1554)](https://math.gatech.edu/courses/math/1554)
+- **Contact:** yrastogi7 [at] gatech [dot] edu | [Google Scholar](https://scholar.google.com/citations?hl=en&user=TnaxffgAAAAJ) | [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/)
