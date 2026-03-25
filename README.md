@@ -7,7 +7,7 @@ His technical background—spanning harmonic analysis, inverse problems, and mic
 ---
 
 ## Research
-- J. Frost, C. Madeira, **Y. Rastogi**, H. Uhlig. *Quantum Bayesian Estimation*
+- [J. Frost, C. Madeira, **Y. Rastogi**, H. Uhlig. *Quantum Bayesian Inference: An Exploration*](https://bfi.uchicago.edu/wp-content/uploads/2026/03/BFI_WP_2026-40.pdf)
   
 - [**Y. Rastogi.** *Intertwining Classical and Quantum Dynamics on Hyperbolic Surfaces: A Microlocal Perspective*](https://math.uchicago.edu/~may/REU2024/REUPapers/Rastogi.pdf)
 
