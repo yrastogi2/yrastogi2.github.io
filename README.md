@@ -2,7 +2,7 @@
 
 **Yash Rastogi** is a Ph.D. student in Mathematics at the **Georgia Institute of Technology**. His research interests lie at the intersection of mathematical statistics, probability theory, and the theoretical foundations of machine learning.
 
-His technical background—spanning harmonic analysis, inverse problems, and microlocal methods in dynamical systems—was developed through specialized study with **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**. Beyond pure mathematics, he has collaborated with **Harald Uhlig** and researchers at the **Bank for International Settlements** on quantum-native Bayesian econometrics. He holds a B.S. in Mathematics with Honors and a B.A. in Statistics from the **University of Chicago**.
+He leverages a rigorous foundation in classical harmonic and microlocal analysis and modern spectral geometry, shaped by specialized study with **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**. Beyond pure mathematics, he has collaborated with **Harald Uhlig** and researchers at the **Bank for International Settlements** on quantum-native Bayesian econometrics. He holds a B.S. in Mathematics with Honors and a B.A. in Statistics from the **University of Chicago**.
 
 ---
 
