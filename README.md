@@ -7,7 +7,7 @@ Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverag
 ---
 
 ## Research
-- [J. Frost, C. Madeira, **Y. Rastogi**, H. Uhlig. *Quantum Bayesian Inference: An Exploration*](https://bfi.uchicago.edu/wp-content/uploads/2026/03/BFI_WP_2026-40.pdf)
+- [J. Frost, C. Madeira, **Y. Rastogi**, H. Uhlig. *Quantum Bayesian Inference: An Exploration*](https://www.bis.org/publ/work1342.pdf)
   
 - [**Y. Rastogi.** *Intertwining Classical and Quantum Dynamics on Hyperbolic Surfaces: A Microlocal Perspective*](https://math.uchicago.edu/~may/REU2024/REUPapers/Rastogi.pdf)
 
@@ -18,11 +18,12 @@ Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverag
 ---
 
 ## Selected Fellowships and Honors
-- **University of Cambridge Mathematical Tripos:** Admitted to Part III (Pure Mathematics).
-- **Institute for Advanced Study (IAS):** Selected as an Undergraduate Scholar for the Park City Mathematics Institute (PCMI).
-- **University of Chicago Mathematics REU:** Microlocal analysis and dynamical systems. Advised by **Simion Filip**.
-- **NSF/NSA funded REUs in Mathematical Analysis:** University of Michigan-Dearborn and Georgia Institute of Technology.
-- **Ross Mathematics Program:** Alumnus.
+- **NSF Graduate Research Fellowship Program (GRFP):** Honorable Mention (Mathematical Sciences - Artificial Intelligence)
+- **University of Cambridge Mathematical Tripos:** Admitted to Part III (Pure Mathematics)
+- **Institute for Advanced Study (IAS):** Selected as an Undergraduate Scholar for the Park City Mathematics Institute (PCMI)
+- **University of Chicago Mathematics REU:** Advised by **Simion Filip**
+- **NSF/NSA REUs:** University of Michigan-Dearborn and Georgia Institute of Technology
+- **Ross Mathematics Program:** Alumnus
 
 ---
 
