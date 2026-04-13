@@ -20,7 +20,7 @@ Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverag
 ## Selected Fellowships and Honors
 - **NSF Graduate Research Fellowship Program (GRFP):** Honorable Mention (Mathematical Sciences - Artificial Intelligence)
 - **University of Cambridge Mathematical Tripos:** Admitted to Part III (Pure Mathematics)
-- **Institute for Advanced Study (IAS):** Selected as an Undergraduate Scholar for the Park City Mathematics Institute (PCMI)
+- **Institute for Advanced Study (IAS):** Undergraduate Scholar at the Park City Mathematics Institute (PCMI)
 - **University of Chicago Mathematics REU:** Advised by **Simion Filip**
 - **NSF/NSA REUs:** University of Michigan-Dearborn and Georgia Institute of Technology
 - **Ross Mathematics Program:** Alumnus
