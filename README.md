@@ -1,8 +1,12 @@
-## Biography
+## Yash Rastogi
+Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantitative Risk Foundations
 
-**Yash Rastogi** is a Ph.D. student in Mathematics at the **Georgia Institute of Technology**. His research interests lie at the intersection of algorithmic high-dimensional statistics and the theoretical foundations of machine learning, with a specific focus on characterizing statistical-computational tradeoffs in inference.
+## About Me
+I am a Ph.D. student in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics, statistical learning theory, and the mathematical foundations of artificial intelligence. My research characterizes the **statistical-computational tradeoffs** in high-dimensional inference, designing next generation mathematical frameworks required for predictive machine learning and complex financial risk modeling.
 
-Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverages a rigorous foundation in classical harmonic and microlocal analysis and modern spectral geometry. Beyond pure mathematics, he has collaborated with **Harald Uhlig** and researchers at the **Bank for International Settlements** on quantum-native Bayesian econometrics. He holds a B.S. in Mathematics with Honors and a B.A. in Statistics from the **University of Chicago**.
+As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework addresses the computational bottlenecks inherent in simulating high-dimensional, non-linear stochastic systems by introducing a hybrid classical-quantum approach. This research offers a foundational step toward accelerating tail risk estimation in high-volatility regimes.
+
+I am a graduate of the **University of Chicago**, where I was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in classical harmonic and microlocal analysis and modern spectral geometry.
 
 ---
 
@@ -18,7 +22,7 @@ Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverag
 ---
 
 ## Selected Fellowships and Honors
-- **NSF Graduate Research Fellowship Program (GRFP):** Honorable Mention (Mathematical Sciences - Artificial Intelligence)
+- **NSF GRFP Honorable Mention:** Top 6 nationwide in the Mathematical Sciences - Artificial Intelligence category
 - **University of Cambridge Mathematical Tripos:** Admitted to Part III (Pure Mathematics)
 - **Institute for Advanced Study (IAS):** Undergraduate Scholar at the Park City Mathematics Institute (PCMI)
 - **University of Chicago Mathematics REU:** Advised by **Simion Filip**
@@ -28,8 +32,8 @@ Trained by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip**, he leverag
 ---
 
 ## Teaching Assistant
-- **Graduate Courses:** Numerical Methods in Finance (Math 6635)
-- **Undergraduate Courses:** Probability and Statistics (Math 3215/3670), Linear Algebra (Math 1554)
+- **Graduate Courses:** Numerical Methods in Finance (Black-Scholes, American options, multifactor pricing, implied volatility, yield curves, SDEs, Euler-Maruyama/Milstein, finite differences, Cholesky/LU factorization, SVD)
+- **Undergraduate Courses:** Probability and Statistics, Linear Algebra
 
 ---
 
