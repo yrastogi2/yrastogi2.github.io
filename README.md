@@ -40,4 +40,4 @@ I am a graduate of the **University of Chicago**, where I was mentored by **Carl
 ## Contact
 - **Email:** yrastogi7 [at] gatech [dot] edu
 - **Research:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=TnaxffgAAAAJ)
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/)
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/) 
