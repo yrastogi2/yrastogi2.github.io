@@ -4,9 +4,9 @@ Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantita
 ## About Me
 I am a Ph.D. student in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics, statistical learning theory, and the mathematical foundations of artificial intelligence. My research characterizes the **statistical-computational tradeoffs** in high-dimensional inference, designing next generation mathematical frameworks required for predictive machine learning and complex financial risk modeling.
 
-As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework addresses the computational bottlenecks inherent in simulating high-dimensional, non-linear stochastic systems by introducing a hybrid classical-quantum approach. This research offers a foundational step toward accelerating tail risk estimation in high-volatility regimes.
+As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework explores the feasibility of tackling the computational bottlenecks inherent in simulating high-dimensional, non-linear stochastic systems with quantum computation. This research offers a methodological step toward eventually accelerating tail risk estimation in high-volatility regimes.
 
-I am a graduate of the **University of Chicago**, where I was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in classical harmonic and microlocal analysis and modern spectral geometry.
+I am a graduate of the **University of Chicago**, where I was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in harmonic analysis, microlocal analysis, and spectral geometry.
 
 ---
 
@@ -40,4 +40,4 @@ I am a graduate of the **University of Chicago**, where I was mentored by **Carl
 ## Contact
 - **Email:** yrastogi7 [at] gatech [dot] edu
 - **Research:** [Google Scholar](https://scholar.google.com/citations?hl=en&user=TnaxffgAAAAJ)
-- **Professional:** [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/) 
+- **Professional:** [LinkedIn](https://www.linkedin.com/in/yash-rastogi1/)
