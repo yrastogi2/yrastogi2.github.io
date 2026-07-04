@@ -4,7 +4,7 @@ Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantita
 ## About Me
 I am a Ph.D. student in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics, statistical learning theory, and the mathematical foundations of artificial intelligence. My research characterizes the **statistical-computational tradeoffs** in high-dimensional inference, designing next generation mathematical frameworks required for predictive machine learning and complex financial risk modeling.
 
-As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework explores the feasibility of tackling the computational bottlenecks inherent in simulating high-dimensional, non-linear stochastic systems with quantum computation. This research offers a methodological step toward eventually accelerating tail risk estimation in high-volatility regimes.
+As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework explores the feasibility of utilizing quantum computation to address the computational bottlenecks of Bayesian inference. This research offers a methodological step toward eventually accelerating tail risk estimation in high-volatility regimes.
 
 I am a graduate of the **University of Chicago**, where I was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in harmonic analysis, microlocal analysis, and spectral geometry.
 
