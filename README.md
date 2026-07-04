@@ -1,12 +1,12 @@
 ## Yash Rastogi
-Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantitative Risk Foundations
+**Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantitative Risk Foundations**
 
-## About Me
-I am a Ph.D. student in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics, statistical learning theory, and the mathematical foundations of artificial intelligence. My research characterizes the **statistical-computational tradeoffs** in high-dimensional inference, designing next generation mathematical frameworks required for predictive machine learning and complex financial risk modeling.
+## Biography
+Yash Rastogi is a doctoral researcher in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics and statistical learning theory. His research characterizes the statistical-computational tradeoffs in high-dimensional inference to design mathematical frameworks for predictive machine learning and complex financial risk modeling.
 
-As a research collaborator with the **Bank for International Settlements (BIS)**, I co-authored a novel algorithmic paradigm for Bayesian inference alongside **Harald Uhlig**. Our framework explores the feasibility of utilizing quantum computation to address the computational bottlenecks of Bayesian inference. This research offers a methodological step toward eventually accelerating tail risk estimation in high-volatility regimes.
+In collaboration with researchers at the **Bank for International Settlements (BIS)** and **Harald Uhlig**, he co-authored an algorithmic framework for Bayesian posterior sampling, introducing a quantum state preparation paradigm distinct from classical sampling methods.
 
-I am a graduate of the **University of Chicago**, where I was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in harmonic analysis, microlocal analysis, and spectral geometry.
+He is a graduate of the **University of Chicago**, where he was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in harmonic analysis, microlocal analysis, and spectral geometry.
 
 ---
 
