@@ -1,10 +1,10 @@
 ## Yash Rastogi
-**Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Quantitative Risk Foundations**
+**Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Bayesian Inference**
 
 ## Biography
 Yash Rastogi is a doctoral researcher in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics and statistical learning theory. His research characterizes the statistical-computational tradeoffs in high-dimensional inference to design mathematical frameworks for predictive machine learning and complex financial risk modeling.
 
-He developed an algorithmic framework for Bayesian posterior sampling in collaboration with **Harald Uhlig** and researchers at the **Bank for International Settlements (BIS)**, introducing a quantum state preparation paradigm distinct from classical sampling methods.
+In collaboration with **Harald Uhlig** and researchers at the **Bank for International Settlements (BIS)**, he established a quantum algorithm for posterior sampling as a foundational baseline for state-encoded uncertainty quantification.
 
 He is a graduate of the **University of Chicago**, where he was mentored by **Carlos Kenig**, **Guillaume Bal**, and **Simion Filip** in harmonic analysis, microlocal analysis, and spectral geometry.
 
