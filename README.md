@@ -2,7 +2,7 @@
 **Algorithmic High-Dimensional Statistics | Statistical Learning Theory | Bayesian Inference**
 
 ## Biography
-Yash Rastogi is a doctoral researcher in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics and statistical learning theory. His research characterizes the statistical-computational tradeoffs in high-dimensional inference to design mathematical frameworks for predictive machine learning and complex financial risk modeling.
+Yash Rastogi is a doctoral researcher in Mathematics at the **Georgia Institute of Technology**, specializing in algorithmic high-dimensional statistics and statistical learning theory. His research characterizes statistical-computational tradeoffs to develop frameworks for high-dimensional structural inference, predictive signal extraction, and scalable uncertainty quantification.
 
 In collaboration with **Harald Uhlig** and researchers at the **Bank for International Settlements (BIS)**, he established a quantum algorithm for posterior sampling as a foundational baseline for state-encoded uncertainty quantification.
 
